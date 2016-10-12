@@ -1,8 +1,8 @@
 language: csharp
 solution: ConsoleApplication1.sln
 install:
+  - sudo apt-get install nunit-console
   - nuget restore ConsoleApplication1.sln
-  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
 script:
-  - xbuild /p:Configuration=Release ConsoleApplication1.sln
-  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./UnitTestProject1/bin/Debug/UnitTestProject1.dll
+  - xbuild ./ConsoleApplication1.sln
+  - nunit-console ./UnitTestProject1/bin/Debug/UnitTestProject1.dll
