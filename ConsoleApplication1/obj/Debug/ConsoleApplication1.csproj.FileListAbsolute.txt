@@ -1,1 +1,7 @@
 C:\Users\leo\Documents\testUT\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\leo\Documents\NUnit-test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\leo\Documents\NUnit-test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\leo\Documents\NUnit-test\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\leo\Documents\NUnit-test\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\leo\Documents\NUnit-test\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\leo\Documents\NUnit-test\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

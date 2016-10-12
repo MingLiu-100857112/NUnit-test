@@ -1,0 +1,8 @@
+C:\Users\leo\Documents\NUnit-test\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\leo\Documents\NUnit-test\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\leo\Documents\NUnit-test\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\leo\Documents\NUnit-test\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\leo\Documents\NUnit-test\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\leo\Documents\NUnit-test\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\leo\Documents\NUnit-test\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\leo\Documents\NUnit-test\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
