@@ -9,7 +9,7 @@ namespace UnitTestProject1
         [Test]
         public void TestMethod1()
         {
-            Assert.IsNotNull(100);
+            Assert.IsNull(100);
             
         }
     }
